@@ -34,7 +34,7 @@ img{
 }
 
 div{
-    height: 150px;
+    height:150px;
     padding-top: 25px;
     padding-right: 25px;
     padding-bottom: 25px;
@@ -44,19 +44,17 @@ div{
 #red{
     background-color: #ff0000;
     text-align: right;
-    height: 150px;
 }
 
 #blue{
     background-color: #0000ff;
     text-align: left;
-    height: 150px;
+    height: 100%;
 }
 
 #yellow{
     background-color: #ffff00;
     text-align: right;
-    height: 150px;
     
 }
 #yellow h2{
@@ -72,13 +70,10 @@ div{
 #green{
     background-color: #008000;
     text-align: left;
-    height: 150px;
 }
 
 footer p{
     text-align: center;
-}
-footer {
     padding-right: 10px;
     padding-bottom: 10px;
 }
